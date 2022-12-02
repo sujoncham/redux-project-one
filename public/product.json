@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "This is title one",
+    "rating": 3.5,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae perferendis neque animi et nesciunt, itaque veniam culpa provident consectetur tempora quisquam quo, at nam, voluptatum illo ad optio. Dolor obcaecati non saepe assumenda fugiat rem cumque praesentium exercitationem ullam incidunt sapiente quae necessitatibus perferendis ducimus quidem excepturi ipsum, expedita fuga.",
+    "category": "Tech",
+    "brand": "abroad",
+    "image": "https://i.ibb.co/nb3NNrg/toast.jpg"
+  },
+  {
+    "id": 2,
+    "title": "This is title two",
+    "rating": 4.5,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae perferendis neque animi et nesciunt, itaque veniam culpa provident consectetur tempora quisquam quo, at nam, voluptatum illo ad optio. Dolor obcaecati non saepe assumenda fugiat rem cumque praesentium exercitationem ullam incidunt sapiente quae necessitatibus perferendis ducimus quidem excepturi ipsum, expedita fuga.",
+    "category": "fish",
+    "brand": "abroad",
+    "image": "https://i.ibb.co/nb3NNrg/toast.jpg"
+  },
+  {
+    "id": 3,
+    "title": "This is title three",
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae perferendis neque animi et nesciunt, itaque veniam culpa provident consectetur tempora quisquam quo, at nam, voluptatum illo ad optio. Dolor obcaecati non saepe assumenda fugiat rem cumque praesentium exercitationem ullam incidunt sapiente quae necessitatibus perferendis ducimus quidem excepturi ipsum, expedita fuga.",
+    "category": "rice",
+    "brand": "home",
+    "image": "https://i.ibb.co/nb3NNrg/toast.jpg"
+  },
+  {
+    "id": 4,
+    "title": "This is title four",
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae perferendis neque animi et nesciunt, itaque veniam culpa provident consectetur tempora quisquam quo, at nam, voluptatum illo ad optio. Dolor obcaecati non saepe assumenda fugiat rem cumque praesentium exercitationem ullam incidunt sapiente quae necessitatibus perferendis ducimus quidem excepturi ipsum, expedita fuga.",
+    "category": "leather",
+    "brand": "abroad",
+    "image": "https://i.ibb.co/nb3NNrg/toast.jpg"
+  },
+  {
+    "id": 5,
+    "title": "This is title five",
+    "rating": 3.5,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae perferendis neque animi et nesciunt, itaque veniam culpa provident consectetur tempora quisquam quo, at nam, voluptatum illo ad optio. Dolor obcaecati non saepe assumenda fugiat rem cumque praesentium exercitationem ullam incidunt sapiente quae necessitatibus perferendis ducimus quidem excepturi ipsum, expedita fuga.",
+    "category": "mechine",
+    "brand": "abroad",
+    "image": "https://i.ibb.co/nb3NNrg/toast.jpg"
+  },
+  {
+    "id": 6,
+    "title": "This is title six",
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae perferendis neque animi et nesciunt, itaque veniam culpa provident consectetur tempora quisquam quo, at nam, voluptatum illo ad optio. Dolor obcaecati non saepe assumenda fugiat rem cumque praesentium exercitationem ullam incidunt sapiente quae necessitatibus perferendis ducimus quidem excepturi ipsum, expedita fuga.",
+    "category": "dal",
+    "brand": "home",
+    "image": "https://i.ibb.co/nb3NNrg/toast.jpg"
+  },
+  {
+    "id": 7,
+    "title": "This is title seven",
+    "rating": 2.5,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae perferendis neque animi et nesciunt, itaque veniam culpa provident consectetur tempora quisquam quo, at nam, voluptatum illo ad optio. Dolor obcaecati non saepe assumenda fugiat rem cumque praesentium exercitationem ullam incidunt sapiente quae necessitatibus perferendis ducimus quidem excepturi ipsum, expedita fuga.",
+    "category": "Beckery",
+    "brand": "home",
+    "image": "https://i.ibb.co/nb3NNrg/toast.jpg"
+  },
+  {
+    "id": 8,
+    "title": "This is title eight",
+    "rating": 3,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae perferendis neque animi et nesciunt, itaque veniam culpa provident consectetur tempora quisquam quo, at nam, voluptatum illo ad optio. Dolor obcaecati non saepe assumenda fugiat rem cumque praesentium exercitationem ullam incidunt sapiente quae necessitatibus perferendis ducimus quidem excepturi ipsum, expedita fuga.",
+    "category": "sugar",
+    "brand": "home",
+    "image": "https://i.ibb.co/nb3NNrg/toast.jpg"
+  }
+]
